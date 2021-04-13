@@ -3,7 +3,7 @@
  * @version 0.0.1
  * @description Will detect if you are using a bot command and auto-redirect you to the bots channel
  * @author Archer2305#7876
- * @source
+ * @source https://github.com/Archer2305/ChannelCorrecter/blob/main/ChannelCorrect.js
  * 
  */
 
